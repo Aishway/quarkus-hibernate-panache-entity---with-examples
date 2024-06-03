@@ -1,0 +1,63 @@
+[
+{
+            "name":"Captain Seadog",
+            "nickname":"Seadog",
+            "function" : "captain",
+            "status" : "alive"			},
+{
+            "name":"Nick Stone",
+            "nickname":"Stone",
+            "function" : "cook",
+            "status" : "alive"			},
+{
+            "name":"Admiral Williams",
+            "nickname":"Willi",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Sir John Winters",
+            "nickname":"Winter",
+            "function" : "crew",
+            "status" : "alive"			},
+
+{
+            "name":"John Blackeye",
+            "nickname":"Blackeye",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Musclemouth Mike",
+            "nickname":"Musclemouth",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Old-Tide Sammy",
+            "nickname":"Sammy",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Pistol-Grin Gary",
+            "nickname":"Pistol-Grin",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"One-Tooth John",
+            "nickname":"One-Tooth",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Speechless Mike",
+            "nickname":"Speechless",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Mad Michael",
+            "nickname":"Mad",
+            "function" : "crew",
+            "status" : "alive"			},
+{
+            "name":"Randell Rummy",
+            "nickname":"Rummy",
+            "function" : "crew",
+            "status" : "alive"			}
+    ]

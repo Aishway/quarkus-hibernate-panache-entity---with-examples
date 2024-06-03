@@ -1,0 +1,50 @@
+[
+{
+            "name":"BlackPearl",
+            "direction":"west",
+            "size" : "large"                     },
+{
+            "name":"Barbaric Serpent",
+            "direction":"east ",
+            "size" : "big"                     },
+{
+            "name":"Angel of Doom",
+            "direction":"south",
+            "size" : "large"                     },
+{
+            "name":"Broken Soul",
+            "direction":"west",
+            "size" : "large"                     },
+{
+            "name":"Cannon Blocker",
+            "direction":"east",
+            "size" : "big"                     },
+{
+            "name":"Cursed Slave",
+            "direction":"west",
+            "size" : "small"                     },
+{
+            "name":"Dark Soul",
+            "direction":"west",
+            "size" : "small"                     },
+{
+            "name":"Demon Sea-Dog",
+            "direction":"east",
+            "size" : "small"                     },
+{
+            "name":"Golden Rose",
+            "direction":"east",
+            "size" : "large"                     },
+{
+            "name":"Happy Sailor",
+            "direction":"west",
+            "size" : "small"                     },
+{
+            "name":"Lone Star",
+            "direction":"south",
+            "size" : "big"                     },
+{
+            "name":"Moon Whisperer",
+            "direction":"north",
+            "size" : "large"                     }
+    ]
